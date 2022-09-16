@@ -239,4 +239,5 @@ Mengedit file `conflict.txt` pada branch `master`
 ![Conflict 3](./img/git_conflict_3.png)
 
 Melakukan pull ke branch `master`
+
 ![Conflict 4](./img/git_conflict_4.png)

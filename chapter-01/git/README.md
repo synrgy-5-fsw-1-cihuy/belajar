@@ -40,7 +40,7 @@ git add belajar.txt
 Untuk multiple files
 
 ```
-git add belajar.txt
+git add learn.txt read.txt
 ```
 
 Untuk semua file
