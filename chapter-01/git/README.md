@@ -31,6 +31,7 @@ Misalkan saya ingin melakukan perubahan berupa penambahan file bernama `belajar.
 ![Penambahan File](./img/perubahan.png)
 
 Contoh :
+
 Untuk single file
 
 ```
@@ -96,7 +97,7 @@ git push origin branch-name
 Contoh :
 
 ```
-git pull origin master
+git push origin master
 ```
 
 ![Melakukan Push](./img/git_push.png)
