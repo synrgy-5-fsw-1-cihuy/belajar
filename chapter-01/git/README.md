@@ -135,8 +135,8 @@ Baca di [MERGE](./MERGE.md)
 
 ## Pull Request
 
-Baca di [CONFLICT](./CONFLICT.md)
+Baca di [PULL REQUEST](./PULL_REQUEST.md)
 
-# Conflict Schema
+# Skema Conflict (Study Case)
 
 Baca di [CONFLICT](./CONFLICT.md)
