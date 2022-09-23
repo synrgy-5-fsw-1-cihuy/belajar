@@ -62,11 +62,11 @@ body {
 }
 ```
 
-Arti dari code di atas, class dengan nama `box` akan berfungsi ketika kondisi
+Code CSS di atas akan berfungsi ketika kondisi:
 
 ### Kondisi 1
 
-Pada ukuran lebar layar di bawah `800px` class dengan nama `box` akan memiliki `width` dan `height` yang menyesuaikan text dan `background-color` dengan warna `rebeccapurple`.
+Pada ukuran lebar layar di bawah `800px` class dengan nama `box` akan memiliki `width` dan `height` yang menyesuaikan text dan `body` dengan `background-color` berwarna `rebeccapurple`.
 
 Code CSS yang berlaku pada ukuran di bawah `800px`:
 
@@ -91,7 +91,7 @@ body {
 
 Pada ukuran lebar layar di atas `800px` class dengan nama `box` akan memiliki `background-color` berwarna `goldenrod`, `width` dengan ukuran `100px` dan `height` dengan ukuran `100px` serta `body` dengan `background-color` berwarna `lightblue`. \*Sebagian kondisi 1 masih berlaku
 
-Code CSS yang berlaku pada ukuran di atas `800px` saat ini menjadi:
+Code CSS yang berlaku pada ukuran di atas `800px` sampai `1024px` saat ini menjadi:
 
 ```css
 body {
@@ -117,7 +117,7 @@ body {
 Pada ukuran lebar layar di atas `1024px` class dengan nama `box` akan memiliki `background-color` berwarna `goldenrod`, `width` dengan ukuran `250px` dan `height` dengan ukuran `250px` serta `body` dengan `background-color` berwarna `lightblue`.
 \*Sebagian kondisi 1 masih berlaku dan hanya berbeda ukuran box dengan kondisi 2
 
-Code CSS yang berlaku di atas `1024px` saat ini menjadi:
+Code CSS yang berlaku di atas `1024px` sampai `1280px` saat ini menjadi:
 
 ```css
 body {
@@ -141,7 +141,7 @@ body {
 ### Kondisi 4
 
 Pada ukuran lebar layar di atas `1280px` sampai `1536px` class dengan nama `box` akan memiliki `background-color` berwarna `goldenrod`, `width` dengan ukuran `500px` dan `height` dengan ukuran `500px` serta `body` dengan `background-color` berwarna `violet`.
-\*Sebagian kondisi 1 masih berlaku, hanya berbeda pada warna body dan ukuran box dengan kondisi 2
+\*Sebagian kondisi 1 masih berlaku, hanya berbeda pada warna body dan ukuran box dengan kondisi 3
 
 Code CSS yang berlaku di atas `1280px` sampai `1536px` saat ini menjadi:
 
