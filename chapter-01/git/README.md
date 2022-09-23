@@ -133,6 +133,10 @@ git merge branch-name
 
 Baca di [MERGE](./MERGE.md)
 
+## Stasg
+
+Baca di [STASH](./STASH.md)
+
 ## Pull Request
 
 Baca di [PULL REQUEST](./PULL_REQUEST.md)
