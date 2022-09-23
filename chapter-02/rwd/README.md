@@ -85,7 +85,7 @@ body {
 }
 ```
 
-![md](./img/../../img/sm.png)
+![md](./img/sm.png)
 
 ### Kondisi 2
 
@@ -110,7 +110,7 @@ body {
 }
 ```
 
-![md](./img/../../img/md.png)
+![md](./img/md.png)
 
 ### Kondisi 3
 
@@ -136,7 +136,7 @@ body {
 }
 ```
 
-![lg](./img/../../img/lg.png)
+![lg](./img/lg.png)
 
 ### Kondisi 4
 
@@ -162,7 +162,7 @@ body {
 }
 ```
 
-![xl](./img/../../img/xl.png)
+![xl](./img/xl.png)
 
 Pada ukuran lebar layar di atas `1536px` class dengan nama `box` akan memiliki `background-color` berwarna `goldenrod`, `width` dengan ukuran `250px` dan `height` dengan ukuran `250px` dengan ukuran `500px` serta `body` dengan `background-color` berwarna `lightblue`. \*Kondisi 5 sama dengan kondisi 3
 
@@ -185,7 +185,7 @@ body {
 }
 ```
 
-![2xl](./img/../../img/2xl.png)
+![2xl](./img/2xl.png)
 
 ### Simulasi
 
