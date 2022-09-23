@@ -5,6 +5,7 @@ Kumpulan tutorial / materi / hasil belajar Fullstack Web Development Binar x Syn
 # Chapters
 
 - [Chapter 01](./chapter-01/)
+- [Chapter 02](./chapter-02/)
 
 # Kontribusi
 

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Praktek</title>
+    <style>
+      body {
+        background-color: rebeccapurple;
+      }
+
+      .centered {
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .box {
+        display: flex;
+        background-color: yellowgreen;
+        justify-content: center;
+        align-items: center;
+        border: solid 5px greenyellow;
+        text-align: center;
+      }
+
+      @media only screen and (min-width: 800px) {
+        body {
+          background-color: lightblue;
+        }
+        .box {
+          background-color: goldenrod;
+          width: 100px;
+          height: 100px;
+        }
+      }
+
+      @media only screen and (min-width: 1024px) {
+        .box {
+          width: 250px;
+          height: 250px;
+        }
+      }
+
+      @media only screen and (min-width: 1280px) and (max-width: 1536px) {
+        body {
+          background-color: violet;
+        }
+
+        .box {
+          width: 500px;
+          height: 500px;
+        }
+      }
+    </style>
+  </head>
+  <body class="centered">
+    <div class="box">Ini Box</div>
+  </body>
+</html>
