@@ -7,6 +7,31 @@ Kumpulan tutorial / materi / hasil belajar Fullstack Web Development Binar x Syn
 - [Chapter 01](./chapter-01/)
 - [Chapter 02](./chapter-02/)
 
+# Sumber Tambahan
+
+### All in one documentation
+
+- https://devdocs.io/
+
+### Learn CSS
+
+- https://web.dev/learn/css/
+
+### Frontend Challenge / Practice
+
+- https://www.frontendpractice.com/projects
+- https://www.frontendmentor.io/challenges
+
+### Terminal (CLI) and Git Cheatsheet
+
+- https://www.git-tower.com/blog/command-line-cheat-sheet/
+- https://www.git-tower.com/blog/git-cheat-sheet/
+- https://www.freecodecamp.org/news/git-cheat-sheet/
+
+### Git Branching Simulation
+
+- https://learngitbranching.js.org/
+
 # Kontribusi
 
 - Baca [CONTRIBUTING.md](./CONTRIBUTING.md) kalau mau kontribusi
