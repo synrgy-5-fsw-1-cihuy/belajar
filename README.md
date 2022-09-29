@@ -32,6 +32,35 @@ Kumpulan tutorial / materi / hasil belajar Fullstack Web Development Binar x Syn
 
 - https://learngitbranching.js.org/
 
+# Hosting
+
+### Frontend
+
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Github Pages](https://pages.github.com/)
+- [CloudflarePages](https://pages.cloudflare.com/)
+- [GitlabPages](https://docs.gitlab.com/ee/user/project/pages/)
+- [Render](https://render.com/)
+- [Fleek](https://fleek.co/)
+- [Glitch](https://glitch.com/)
+
+### Backend
+
+- [Railway](https://railway.app/)
+- [Fly.io](https://fly.io/)
+
+### Database
+
+- [Supabase](https://supabase.com/)
+- [PlanetScale](https://planetscale.com/)
+- [NHost](https://nhost.io/)
+- [MongoDB](https://www.mongodb.com/)
+
+# Other
+
+- [FreeForDev](https://free-for.dev/)
+
 # Kontribusi
 
 - Baca [CONTRIBUTING.md](./CONTRIBUTING.md) kalau mau kontribusi
