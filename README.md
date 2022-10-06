@@ -24,13 +24,20 @@ Kumpulan tutorial / materi / hasil belajar Fullstack Web Development Binar x Syn
 
 ### Terminal (CLI) and Git Cheatsheet
 
+- https://ss64.com/bash/
 - https://www.git-tower.com/blog/command-line-cheat-sheet/
+- https://www.guru99.com/linux-commands-cheat-sheet.html
 - https://www.git-tower.com/blog/git-cheat-sheet/
 - https://www.freecodecamp.org/news/git-cheat-sheet/
 
 ### Git Branching Simulation
 
 - https://learngitbranching.js.org/
+
+# Examples
+
+- https://realworld-docs.netlify.app/
+- https://codebase.show/projects/realworld
 
 # Hosting
 
